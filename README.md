@@ -9,3 +9,10 @@ the data structes implemented in python and C are:
 - singly linked list
 - doubly linked list
 - bubble sort
+- insertion sort
+- merge sort
+- quick sort
+- selection sort
+- shell sort
+- breadth first search
+- depth first search
