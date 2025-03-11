@@ -1,0 +1,11 @@
+the data structes implemented in python and C are:
+- stacks
+- queues
+- tree
+- binary search tree
+- graphs
+- hash table
+- hash table with collsion handling
+- singly linked list
+- doubly linked list
+- bubble sort
