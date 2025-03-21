@@ -16,3 +16,5 @@ the data structes implemented in python and C are:
 - shell sort
 - breadth first search
 - depth first search
+
+Apart from data structures, an implementation of the classic 'Minesweeper' game is also uploaded. It is written in C.
